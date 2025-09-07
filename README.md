@@ -1,4 +1,4 @@
-# electron-app
+# electron-vite-test
 
 An Electron application with React and TypeScript
 
